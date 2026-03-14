@@ -40,6 +40,19 @@ Built Power BI dashboard to analyze ride trends and customer behavior.
 
 ---
 
+## 📊 GitHub Stats
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamsinghsarkar61&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamsinghsarkar61&theme=radical)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsinghsarkar61&layout=compact&theme=radical)
+
+
 ## 🎓 Virtual Experience
 - Deloitte Data Analytics Virtual Experience
 - Tata Data Visualization Virtual Experience
